@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishmaniaff!
-- 👀 I’m interested in making games!
-- 🌱 I’m currently learning HTML.
-- 💞️ I’m looking to collaborate on FNF Mods.
+- 👀 I’m interested in making discord bots!
+- 🌱 I’m currently learning TypeScript.
+- 💞️ I’m looking to collaborate on Discord Bots.
 - 📫 To reach me DM me on Discord. My username is @Rishi1#2415
 
 <!---
